@@ -1,3 +1,16 @@
+```bash
+pip install mmcv-full -f https://download.openmmlab.com/mmcv/dist/cu102/1.8.1/index.html
+
+```
+
+
+
+
+
+
+
+
+
 <div align="center">
   <img src="resources/mmseg-logo.png" width="600"/>
   <div>&nbsp;</div>
@@ -18,6 +31,7 @@
   </div>
   <div>&nbsp;</div>
 </div>
+
 <br />
 
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/mmsegmentation)](https://pypi.org/project/mmsegmentation/)
